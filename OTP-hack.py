@@ -8,8 +8,8 @@ IMAP_SERVER = 'imap.gmail.com'
 IMAP_PORT = 993
 
 # আপনার জিমেইল অ্যাকাউন্টের তথ্য
-EMAIL = 'rh7731774@gmail.com'
-PASSWORD = 'Robiul995471'
+EMAIL = 'target Gmail'
+PASSWORD = 'target password'
 
 def fetch_otp_from_gmail():
     try:
